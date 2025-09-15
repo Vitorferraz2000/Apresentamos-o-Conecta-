@@ -5,7 +5,7 @@ Desafio social: Desigualdade digital em comunidades de baixa renda e áreas rura
 Quem é afetado: Crianças, jovens e adultos sem acesso a computadores, smartphones modernos ou internet de qualidade.
 Consequências: Dificuldade de acesso a educação, oportunidades de emprego, serviços públicos digitais e participação social; perpetuação de desigualdades econômicas e sociais.
 
-. A Solução Proposta
+2. A Solução Proposta
 
 Solução tecnológica: Um aplicativo multiplataforma chamado “Conecta+”.
 
@@ -17,7 +17,7 @@ Permite conexão entre usuários e voluntários para suporte educacional e digit
 
 Como reduz desigualdades: democratiza o acesso à informação e educação digital, promovendo inclusão tecnológica mesmo em regiões com baixa conectividade.
 
-. Público-alvo
+3. Público-alvo
 
 Usuários diretos: Jovens e adultos em áreas de vulnerabilidade social ou com acesso limitado à internet e tecnologia.
 
@@ -25,7 +25,7 @@ Impacto da divisão digital: Falta de habilidades digitais, dificuldade de acess
 
 Design: Interface simples, com recursos visuais e auditivos, instruções passo a passo e versões offline.
 
-. Benefícios da Solução
+4. Benefícios da Solução
 
 Principal benefício: Ampliação do acesso à educação digital e informação, reduzindo a exclusão tecnológica.
 
@@ -33,7 +33,7 @@ Diferencial: Funciona offline, compatível com aparelhos antigos, linguagem simp
 
 Vantagem sobre alternativas: Plataformas tradicionais exigem internet rápida e dispositivos modernos, enquanto o Conecta+ prioriza acessibilidade e inclusão.
 
-. Inclusão e Acessibilidade
+5. Inclusão e Acessibilidade
 
 Princípios aplicados:
 
@@ -45,7 +45,7 @@ Conteúdos audiovisuais com legendas e transcrições.
 
 Internet lenta/aparelhos antigos: Funciona em 2G/3G, ocupa pouco espaço de armazenamento, atualizações leves.
 
-. Impacto Social Esperado
+6. Impacto Social Esperado
 
 Mudança positiva:
 
@@ -61,7 +61,7 @@ Taxa de conclusão de cursos e tutoriais.
 
 Pesquisa de satisfação e indicadores de empregabilidade.
 
-. Sustentabilidade do Projeto
+7. Sustentabilidade do Projeto
 
 Modelo de negócio: Negócio social com parcerias público-privadas, apoio de ONGs e financiamento via grant ou crowdfunding.
 
